@@ -1,6 +1,6 @@
 {
   "name": "oportunamente",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Plugin do projeto Oportunamente",
   "main": "Gruntfile.js",
   "scripts": {

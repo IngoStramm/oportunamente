@@ -67,5 +67,5 @@ add_shortcode('logout_url', 'op_logout_url');
  */
 function op_logout_url()
 {
-    return wp_logout_url();
+    return wp_logout_url(home_url());
 }

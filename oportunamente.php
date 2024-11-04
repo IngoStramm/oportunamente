@@ -4,7 +4,7 @@
  * Plugin Name: Oportunamente
  * Plugin URI: https://agencialaf.com
  * Description: Descrição do Oportunamente.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Ingo Stramm
  * Text Domain: op
  * License: GPLv2
