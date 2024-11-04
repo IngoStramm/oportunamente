@@ -1,7 +1,7 @@
 {
     "name": "Oportunamente",
     "version": "0.0.2",
-    "download_url": "https://github.com/IngoStramm/oportunamente/raw/master/dist/oportunamente.zip",
+    "download_url": "https://github.com/IngoStramm/oportunamente/raw/refs/heads/main/dist/oportunamente.zip",
     "homepage": "https://agencialaf.com",
     "requires": "4.7",
     "tested": "5.5",
